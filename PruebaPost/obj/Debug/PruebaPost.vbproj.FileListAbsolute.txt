@@ -1,0 +1,10 @@
+C:\ProyectosNet2008\PruebaPost\PruebaPost\bin\Debug\PruebaPost.exe
+C:\ProyectosNet2008\PruebaPost\PruebaPost\bin\Debug\PruebaPost.pdb
+C:\ProyectosNet2008\PruebaPost\PruebaPost\bin\Debug\PruebaPost.xml
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\Debug\ResolveAssemblyReference.cache
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\Debug\PruebaPost.FrMain.resources
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\Debug\PruebaPost.Resources.resources
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\Debug\PruebaPost.vbproj.GenerateResource.Cache
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\Debug\PruebaPost.exe
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\Debug\PruebaPost.xml
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\Debug\PruebaPost.pdb

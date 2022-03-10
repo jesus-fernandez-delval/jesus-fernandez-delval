@@ -1,0 +1,39 @@
+C:\ProyectosNet2008\PruebaPost\PruebaPost\bin\x86\Debug\PruebaPost.exe
+C:\ProyectosNet2008\PruebaPost\PruebaPost\bin\x86\Debug\PruebaPost.pdb
+C:\ProyectosNet2008\PruebaPost\PruebaPost\bin\x86\Debug\PruebaPost.xml
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.FrMain.resources
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.Resources.resources
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.exe
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.xml
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.pdb
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.vbproj.GenerateResource.Cache
+C:\ProyectosNet2008\PruebaPost\PruebaPost\bin\x86\Debug\PruebaPost.exe.config
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.vbprojResolveAssemblyReference.cache
+C:\Proyectos_NET_MySQL\PruebaPost\PruebaPost\bin\x86\Debug\PruebaPost.exe.config
+C:\Proyectos_NET_MySQL\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.xml
+C:\Proyectos_NET_MySQL\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.pdb
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\bin\x86\Debug\PruebaPost.exe.config
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.xml
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.pdb
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.vbprojResolveAssemblyReference.cache
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\bin\x86\Debug\PruebaPost.exe
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\bin\x86\Debug\PruebaPost.pdb
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\bin\x86\Debug\PruebaPost.xml
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\bin\x86\Debug\adodb.dll
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.FrMain.resources
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.Resources.resources
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.vbproj.GenerateResource.Cache
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.exe
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\bin\x86\Debug\PruebaPost.exe.config
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.exe
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.xml
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.pdb
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\bin\x86\Debug\PruebaPost.exe
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\bin\x86\Debug\PruebaPost.pdb
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\bin\x86\Debug\PruebaPost.xml
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\bin\x86\Debug\adodb.dll
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.vbprojResolveAssemblyReference.cache
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.FrMain.resources
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.Resources.resources
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.vbproj.GenerateResource.Cache
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.FrmModo.resources

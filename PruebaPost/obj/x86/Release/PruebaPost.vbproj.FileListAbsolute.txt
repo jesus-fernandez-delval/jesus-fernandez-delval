@@ -1,0 +1,35 @@
+C:\ProyectosNet2008\PruebaPost\PruebaPost\bin\x86\Release\PruebaPost.exe
+C:\ProyectosNet2008\PruebaPost\PruebaPost\bin\x86\Release\PruebaPost.pdb
+C:\ProyectosNet2008\PruebaPost\PruebaPost\bin\x86\Release\PruebaPost.xml
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.FrMain.resources
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.Resources.resources
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.exe
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.xml
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.pdb
+W:\ProyectosNet2008\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.exe
+W:\ProyectosNet2008\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.xml
+W:\ProyectosNet2008\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.pdb
+C:\ProyectosNet2008\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.vbproj.GenerateResource.Cache
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\bin\x86\Release\PruebaPost.exe.config
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.exe
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.xml
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.pdb
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\bin\x86\Release\PruebaPost.exe
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\bin\x86\Release\PruebaPost.pdb
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\bin\x86\Release\PruebaPost.xml
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\bin\x86\Release\adodb.dll
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.FrMain.resources
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.Resources.resources
+C:\repo\OneDrive - Stats Perform\SourceCode\VbProjects\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.vbproj.GenerateResource.Cache
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\bin\x86\Release\PruebaPost.exe.config
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.exe
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.xml
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.pdb
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\bin\x86\Release\PruebaPost.exe
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\bin\x86\Release\PruebaPost.pdb
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\bin\x86\Release\PruebaPost.xml
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\bin\x86\Release\adodb.dll
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.FrMain.resources
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.FrmModo.resources
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.Resources.resources
+C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Release\PruebaPost.vbproj.GenerateResource.Cache

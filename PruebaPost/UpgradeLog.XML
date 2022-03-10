@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PruebaPost">
+</Property><Property Name="Archivo de la solución" Value="C:\ProyectosNet2008\PruebaPost\PruebaPost\PruebaPost.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\ProyectosNet2008\PruebaPost\PruebaPost\PruebaPost.suo">
+</Property><Property Name="Date" Value="lunes, 27 de febrero de 2012">
+</Property><Property Name="Time" Value="9:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PruebaPost.sln" Description="La copia C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\PruebaPost.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="PruebaPost.suo" Description="La copia C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\PruebaPost.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="PruebaPost.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\PruebaPost.vbproj">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="PruebaPost.vbproj.user" Description="La copia de seguridad C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\PruebaPost.vbproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="ClasePost.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\ClasePost.vb">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="ClassesGecaSport.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\ClassesGecaSport.vb">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="FrMain.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\FrMain.vb">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="FrMain.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\FrMain.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="Mll_Funciones.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\Mll_Funciones.vb">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="My Project\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="My Project\Application.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="My Project\Resources.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="My Project\Settings.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="My Project\Application.myapp" Description="Se realizó correctamente la copia de seguridad del archivo C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="My Project\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="ARRWS07A.ICO" Description="Se realizó correctamente la copia de seguridad del archivo C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\ARRWS07A.ICO">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="FrMain.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\FrMain.resx">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="My Project\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\ProyectosNet2008\PruebaPost\PruebaPost\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="PruebaPost.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="PruebaPost" Source="PruebaPost.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PruebaPost.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="PruebaPost.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PruebaPost" Source="PruebaPost.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>
