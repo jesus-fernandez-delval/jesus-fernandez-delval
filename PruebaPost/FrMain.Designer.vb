@@ -31,6 +31,9 @@ Partial Class FrMain
         Me.Label4 = New System.Windows.Forms.Label()
         Me.cbTipoEnvio = New System.Windows.Forms.ComboBox()
         Me.Frame3 = New System.Windows.Forms.GroupBox()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.cbCliM = New System.Windows.Forms.ComboBox()
         Me.CbCliente = New System.Windows.Forms.ComboBox()
         Me.BtnLimpiar = New System.Windows.Forms.Button()
         Me.BtnPost = New System.Windows.Forms.Button()
@@ -43,9 +46,6 @@ Partial Class FrMain
         Me.TxtURL = New System.Windows.Forms.TextBox()
         Me.OpenFileDialog1 = New System.Windows.Forms.OpenFileDialog()
         Me.OpenFile1 = New System.Windows.Forms.OpenFileDialog()
-        Me.cbCliM = New System.Windows.Forms.ComboBox()
-        Me.Label5 = New System.Windows.Forms.Label()
-        Me.Label6 = New System.Windows.Forms.Label()
         Me.Frm1.SuspendLayout()
         Me.Frame2.SuspendLayout()
         Me.Frame3.SuspendLayout()
@@ -61,7 +61,7 @@ Partial Class FrMain
         Me.Frm1.Size = New System.Drawing.Size(566, 110)
         Me.Frm1.TabIndex = 0
         Me.Frm1.TabStop = False
-        Me.Frm1.Text = "Selecciona Fichero a enviar"
+        Me.Frm1.Text = "Selecciona Fichero a Enviar"
         '
         'Button1
         '
@@ -138,6 +138,32 @@ Partial Class FrMain
         Me.Frame3.TabIndex = 9
         Me.Frame3.TabStop = False
         Me.Frame3.Text = "Seleccionar datos de cliente (Http) de la base de datos"
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Location = New System.Drawing.Point(6, 79)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(70, 13)
+        Me.Label6.TabIndex = 3
+        Me.Label6.Text = "Cliente (URL)"
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.Location = New System.Drawing.Point(14, 30)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(74, 13)
+        Me.Label5.TabIndex = 2
+        Me.Label5.Text = "Cliente Master"
+        '
+        'cbCliM
+        '
+        Me.cbCliM.FormattingEnabled = True
+        Me.cbCliM.Location = New System.Drawing.Point(109, 27)
+        Me.cbCliM.Name = "cbCliM"
+        Me.cbCliM.Size = New System.Drawing.Size(394, 21)
+        Me.cbCliM.TabIndex = 1
         '
         'CbCliente
         '
@@ -229,32 +255,6 @@ Partial Class FrMain
         'OpenFile1
         '
         Me.OpenFile1.FileName = "OpenFileDialog1"
-        '
-        'cbCliM
-        '
-        Me.cbCliM.FormattingEnabled = True
-        Me.cbCliM.Location = New System.Drawing.Point(109, 27)
-        Me.cbCliM.Name = "cbCliM"
-        Me.cbCliM.Size = New System.Drawing.Size(394, 21)
-        Me.cbCliM.TabIndex = 1
-        '
-        'Label5
-        '
-        Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(14, 30)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(74, 13)
-        Me.Label5.TabIndex = 2
-        Me.Label5.Text = "Cliente Master"
-        '
-        'Label6
-        '
-        Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(6, 79)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(70, 13)
-        Me.Label6.TabIndex = 3
-        Me.Label6.Text = "Cliente (URL)"
         '
         'FrMain
         '

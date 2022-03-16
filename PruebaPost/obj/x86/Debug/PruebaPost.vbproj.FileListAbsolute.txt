@@ -37,3 +37,6 @@ C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\Pru
 C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.Resources.resources
 C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.vbproj.GenerateResource.Cache
 C:\repo\OneDrive - Stats Perform\StatsPerformSpainSourceCode\Geca-VBProjects\PruebaPost\PruebaPost\obj\x86\Debug\PruebaPost.FrmModo.resources
+C:\Users\jesus.fernandez\repoPrueba\PruebaPost\bin\x86\Debug\PruebaPost.exe.config
+C:\Users\jesus.fernandez\repoPrueba\PruebaPost\obj\x86\Debug\PruebaPost.xml
+C:\Users\jesus.fernandez\repoPrueba\PruebaPost\obj\x86\Debug\PruebaPost.pdb
